@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhosalepranil16&label=Profile%20views&color=0e75b6&style=flat" alt="bhosalepranil16" /> </p>
 
 💬 Ask me about **MERN, Django**
+
 📫 How to reach me **bhosalepranil16@gmail.com**
+
 [📄 Know about my experiences](https://drive.google.com/file/d/1Y04MAK0SzUs1Oy6sb1OVqhW3_sl26y4v/view?usp=sharing)
 
 <h3 align="left">Languages:</h3>
