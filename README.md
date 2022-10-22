@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pranil Bhosale.</h1>
 <h3 align="center">Passionate Full Stack Developer...</h3>
 
+<p align="center">
+<a href="https://linkedin.com/in/bhosalepranil16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhosalepranil16" height="30" width="40" /></a>
+<a href="https://instagram.com/bhosalepranil16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhosalepranil16" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bhosalepranil16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhosalepranil16" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhosalepranil16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhosalepranil16" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bhosalepranil16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhosalepranil16" height="30" width="40" /></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhosalepranil16&label=Profile%20views&color=0e75b6&style=flat" alt="bhosalepranil16" /> </p>
 
 💬 Ask me about **MERN, Django**
