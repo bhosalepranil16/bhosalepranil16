@@ -103,7 +103,7 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bhosalepranil16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bhosalepranil16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bhosalepranil16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhosalepranil16&show_icons=true&theme=tokyonight" alt="bhosalepranil16" /></p>
 
